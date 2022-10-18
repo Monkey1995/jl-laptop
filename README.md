@@ -21,6 +21,8 @@ You can create app for specific job, gang, or even only when player have an item
 
 
 
+
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
