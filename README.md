@@ -16,7 +16,9 @@ It comes with 4 default apps
 
 You can create app for specific job, gang, or even only when player have an item!
 
-| Join my discord server [here](https://discord.gg/fqUjRyhW2z) |
+| Join my discord server [here](https://discord.gg/fqUjRyhW2z) |------test------------
+---------
+-------
 | ------------------------------------------------------------ |
 
 
